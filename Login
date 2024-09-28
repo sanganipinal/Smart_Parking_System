@@ -34,7 +34,7 @@ namespace SmartParkingSystem
                     }
                     else
                     {
-                        MessageBox.Show("Your entered account information is not exists... First create your account");
+                        MessageBox.Show("Your entered account information does not exists... First create your account");
                     }
                 }
                 else
